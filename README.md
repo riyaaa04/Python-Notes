@@ -52,11 +52,17 @@
 - Identity operators
 - Membership operators
 - Bitwise operators
-- Operator	Name	Example
-+	Addition	x + y
--	Subtraction	x - y
-*	Multiplication	x * y
-/	Division	x / y
-%	Modulus	x % y
-**	Exponentiation	x ** y
-//	Floor division	x // y
+-
+**List**
+
+---
+
+Lists are used to store multiple items in a single variable.
+
+Lists are one of 4 built-in data types in Python used to store collections of data, the other 3 are [Tuple], [Set], and [Dictionary], all with different qualities and usage.
+
+Lists are created using square brackets:mylist = ["apple", "banana", "cherry"]
+
+List items are ordered, changeable, and allow duplicate values.
+
+List items are indexed, the first item has index `[0]`, the second item has index `[1]` etc.
