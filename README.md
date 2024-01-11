@@ -7,12 +7,10 @@
 - It was created by Guido van Rossum, and released in 1991.
 - • Python can be treated in a procedural way, an object-oriented way or a functional way.
 - 
-
-  
 -  Python Indentation.
 - Indentation refers to the spaces at the beginning of a code line.
 - Where in other programming languages the indentation in code is for readability only, the indentation in Python is very important.
 - Python uses indentation to indicate a block of code.
-
+- 
 - Variables
 - Variables are containers for storing data values.
