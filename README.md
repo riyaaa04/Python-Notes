@@ -22,15 +22,15 @@
 
   int: Integer data type.
   float: Floating-point data type.
+  
   complex: Complex number data type.
   Sequence Types:
-
   str: String data type.
   list: List data type.
   tuple: Tuple data type.
+  
   Mapping Type:
-
   dict: Dictionary data type.
+  
   Set Types:
-
   set: Set data type.
