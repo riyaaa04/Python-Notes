@@ -15,6 +15,8 @@
 - Variables
 - Variables are containers for storing data values.
 - 
+
+- 
   Data Types:
   Numeric Types:
 
