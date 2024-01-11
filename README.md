@@ -91,4 +91,47 @@ reverse()	Reverses the order of the list
 
 sort()	Sorts the list
 
+TUPLES
+
+Tuples are used to store multiple items in a single variable.tuples are immutable
+
+Tuple is one of 4 built-in data types in Python used to store collections of data, the other 3 are [List], [Set], and [Dictionary], all with different qualities and usage.
+
+A tuple is a collection which is ordered and **unchangeable**.
+
+Tuples are written with round brackets.
+
+mytuple = ("apple", "banana", "cherry")
+
+Method	Description
+
+count()	Returns the number of times a specified value occurs in a tuple
+
+index()	Searches the tuple for a specified value and returns the position of where it was found
+
+Python Dictionaries
+
+---
+
+thisdict = {  "brand": "Ford",  "model": "Mustang",  "year": 1964}
+
+Dictionaries are used to store data values in key:value pairs.
+
+A dictionary is a collection which is ordered*, changeable and do not allow duplicates.
+
+
+**The __init__() Function**
+
+All classes have a function called __init__(), which is always executed when the class is being initiated.
+
+Use the __init__() function to assign values to object properties, or other operations that are necessary to do when the object is being created:
+
+
+# The self Parameter
+
+The `self` parameter is a reference to the current instance of the class, and is used to access variables that belongs to the class.
+
+File handling is an important part of any web application.
+
+Python has several functions for creating, reading, updating, and deleting files.
 
