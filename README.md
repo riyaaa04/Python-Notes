@@ -42,3 +42,21 @@
 - Strings in python are surrounded by either single quotation marks, or double quotation marks.
 - 'hello' is the same as "hello".
 - You can display a string literal with the `print()` function:
+- 
+- Python divides the operators in the following groups:
+
+- Arithmetic operators
+- Assignment operators
+- Comparison operators
+- Logical operators
+- Identity operators
+- Membership operators
+- Bitwise operators
+- Operator	Name	Example
++	Addition	x + y
+-	Subtraction	x - y
+*	Multiplication	x * y
+/	Division	x / y
+%	Modulus	x % y
+**	Exponentiation	x ** y
+//	Floor division	x // y
